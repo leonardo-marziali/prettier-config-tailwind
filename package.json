@@ -1,6 +1,6 @@
 {
   "name": "@leonardo-marziali/prettier-config-tailwind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Leonardo Marziali <marzialileonardo862@gmail.com>",
   "packageManager": "yarn@3.5.1",
