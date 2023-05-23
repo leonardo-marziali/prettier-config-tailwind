@@ -216,7 +216,6 @@ __metadata:
     typescript: ^5.0.4
   peerDependencies:
     "@trivago/prettier-plugin-sort-imports": "*"
-    prettier: "*"
     prettier-plugin-organize-imports: "*"
     prettier-plugin-tailwindcss: "*"
     typescript: "*"
